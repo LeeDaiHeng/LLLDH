@@ -1,0 +1,18 @@
+.imgage{
+	display: inline;
+	margin:3px;
+	border:1px solid black;
+	width:200px;
+	height:190px;
+	float: left;
+}
+img{opacity: 0.5}
+div.imgage a:hover img{
+	opacity: 1.0;
+	border:1px solid #333333;
+}
+.desc{
+	font-family: "仿宋";
+	text-align: center
+
+}
